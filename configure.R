@@ -1,1 +1,1 @@
-configure
+configure <- c(1,2)
